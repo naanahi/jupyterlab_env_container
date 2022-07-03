@@ -6,7 +6,6 @@
 ```
 docker compose up
 ```
-<br>
 コマンド実行後に出力されるURLをコピペしてブラウザで起動すると、Jupyter Labが起動される
 
 
