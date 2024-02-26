@@ -1,14 +1,7 @@
 ## テンプレート使用方法
 
-<br>
 以下のコマンドを実行して、コンテナを起動させる
 
 ```
-docker compose up
+docker compose up --build
 ```
-コマンド実行後に出力されるURLをコピペしてブラウザで起動すると、Jupyter Labが起動される
-
-
-
-
-
